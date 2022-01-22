@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Home</title>
+    <link>https://github.com/code-panda-x/CSCE-656.git/posts/</link>
+    <description>Recent content in Posts on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 21 Jan 2022 18:21:34 -0600</lastBuildDate><atom:link href="https://github.com/code-panda-x/CSCE-656.git/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Assignment1</title>
+      <link>https://github.com/code-panda-x/CSCE-656.git/2022/assignment1/</link>
+      <pubDate>Fri, 21 Jan 2022 18:21:34 -0600</pubDate>
+      
+      <guid>https://github.com/code-panda-x/CSCE-656.git/2022/assignment1/</guid>
+      <description>Media I use everyday Text   Books
+ kindle Calibre    Blogs
+ RSS Chrome    Posts
+ Twitter Reddit    Email
+ Gmail    Social
+ Wechat Linkedin    Image   Social
+ Instgram Snapchat    Audio   Music (🤘🏻Rock &amp;amp; Roll🤘🏻)
+ YT Music    Audio books
+ Audio book Apps    Podcast</description>
+    </item>
+    
+  </channel>
+</rss>
