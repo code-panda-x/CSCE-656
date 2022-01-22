@@ -63,4 +63,4 @@ Disallow: /
 User-agent: ZoominfoBot
 Disallow: /
 
-Sitemap: https://github.com/code-panda-x/CSCE-656.git/sitemap.xml
+Sitemap: https://heuristic-hugle-5a2f03.netlify.app/sitemap.xml
